@@ -1,3 +1,6 @@
+> **Fork:** This package was forked from spatie/laravel-translatable in order to make it compatible with PHP 5.6. This 
+> excludes the tests code.
+
 # A trait to make Eloquent models translatable
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-translatable.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-translatable)

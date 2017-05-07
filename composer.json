@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-translatable",
+    "name": "systemovich/laravel-translatable",
     "description": "A trait to make an Eloquent model hold translations",
     "keywords": [
         "spatie",
@@ -10,7 +10,7 @@
         "i8n",
         "multilingual"
     ],
-    "homepage": "https://github.com/spatie/laravel-translatable",
+    "homepage": "https://github.com/systemovich/laravel-translatable",
     "license": "MIT",
     "authors": [
         {
@@ -29,10 +29,15 @@
             "name": "Mohamed Said",
             "email": "theMohamedSaid@gmail.com",
             "role": "Original idea"
+        },
+        {
+            "name": "Geoffrey van Wyk",
+            "email": "geoffrey@vanwyk.biz",
+            "role": "PHP 5 Compatibility"
         }
     ],
     "require": {
-        "php" : "^7.0",
+        "php" : "^5.6",
         "illuminate/database": "~5.3.0|~5.4.0",
         "illuminate/support": "~5.3.0|~5.4.0"
     },
